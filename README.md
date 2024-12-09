@@ -2,6 +2,8 @@
 
 This project leverages TensorFlow and OpenCV to recognize handwritten digits using a neural network trained on the MNIST dataset. It allows for the training of a new model or the loading of an existing model to predict digits from custom images.
 
+![Demo Screenshot](./demo.png)
+
 ## Features
 
 - **MNIST Dataset:** Train a neural network model on the MNIST dataset of handwritten digits.
